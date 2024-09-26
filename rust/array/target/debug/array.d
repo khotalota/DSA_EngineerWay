@@ -1,0 +1,1 @@
+/home/khotalota/self/leetcode/rust/array/target/debug/array: /home/khotalota/self/leetcode/rust/array/src/learn.rs /home/khotalota/self/leetcode/rust/array/src/main.rs /home/khotalota/self/leetcode/rust/array/src/max_consecutive_pair.rs /home/khotalota/self/leetcode/rust/array/src/reverse_paira.rs
